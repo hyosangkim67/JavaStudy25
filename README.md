@@ -10,9 +10,7 @@
 
 <h6 align="center">J A V A S T U D Y 2 5</h6>
 
----
 
-![슬라이드2](https://github.com/user-attachments/assets/48181cab-167d-4caa-bb05-f140ec1ec57b)
 
 
 
