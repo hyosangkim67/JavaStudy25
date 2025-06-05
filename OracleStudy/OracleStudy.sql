@@ -1,4 +1,4 @@
-﻿/* Formatted on 2025/06/05 오전 9:55:00 (QP5 v5.336) */
+/* Formatted on 2025/06/05 오전 9:55:00 (QP5 v5.336) */
 DESC emp;                                              -- 주석 emp 테이블 구조 보기
 
 SELECT * FROM emp;                                                                                           -- 테이블 내용 보기
