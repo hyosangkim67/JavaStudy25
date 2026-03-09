@@ -17,7 +17,6 @@
 ---
 
 <p align="center">
-  <h6>MBC COMPUTER ACADEMY SUWON ◝(⑅•ᴗ•⑅)◜..°♡</h6>
   <h6>CLOUD - JAVA, DOCKER, COMPUTER SECURITY, AWS</h6>
   <h6>JAVA 17 / ECLIPSE 2022. 3.^ↀᴥↀ^ </h6>
   <h6>STUDYBOOK: JAVA MASTER (HANBIT ACADEMY, INC)</h6>
